@@ -11,7 +11,7 @@
         "ext-openssl": "*",
         "ext-soap": "*",
         "php": ">=5.6.24",
-        "robrichards/wse-php":"2.0.2",
+        "robrichards/wse-php":"2.0.1",
         "firebase/php-jwt":">=5.0.0"
     },
     "require-dev": {
