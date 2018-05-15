@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b9c486cf59e2300655aeb33d81e262c0",
+    "content-hash": "21dec33f93b524e194b09b39836f597a",
     "packages": [
         {
             "name": "firebase/php-jwt",
@@ -1671,9 +1671,7 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "craigowendavis/fuel-sdk-php": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
